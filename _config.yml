@@ -1,8 +1,8 @@
 # Title of your homepage
-title: ChangeLog of Brandname #(required)
+title: SpicyServers Changelog #(required)
 
 # Website Description for search engines (optional)
-description: "Keep yourself up to date with our new product features"
+description: "Keep yourself up to date with our new server changes"
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
 heading: Updates # (optional)
