@@ -11,7 +11,7 @@ heading: Updates # (optional)
 logo: /assets/images/logo2.png #(required)
 
 # Your Product's Website
-website: https://changelog.site # (required)
+website: https://spicyserversupdates.netlify.com # (required)
 
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
