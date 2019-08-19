@@ -8,7 +8,7 @@ description: "Keep yourself up to date with our new server changes"
 heading: Updates # (optional)
 
 # absolute or relative path of logo
-logo: /assets/images/logo1.png #(required)
+logo: /assets/images/logo2.png #(required)
 
 # Your Product's Website
 website: https://changelog.site # (required)
@@ -25,22 +25,22 @@ baseurl: '' # optional
 github: changelogsite/changelog # (required)
 
 # remove this line if don't want to show Github Star Badge
-star-badge: true  #(optional)
+#star-badge: true  #(optional)
 
 # remove this line if don't want to show Github Watch Badge
-watch-badge: true #(optional)
+#watch-badge: true #(optional)
 
 # Show rss feed icon in menubar. To disable this comment below line by adding # as first character.
-rss-feed-icon: true #(optional)
+#rss-feed-icon: true #(optional)
 
 # Global site tag (gtag.js) - Google Analytics e.g. UA-MYANALYTICS
-analytics:  #(recommended)
+#analytics:  #(recommended)
 
 # https://changelog-site.disqus.com
 # disqus-identifier: changelog-site  # (optional)
 
 # Allow users to comment via facebook
-fb-comment: true
+fb-comment: false
 
 # Allow search engines to index your changelog website
 allow-searchengine: true #optional
