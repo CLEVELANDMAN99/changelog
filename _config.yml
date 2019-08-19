@@ -16,7 +16,7 @@ website: https://spicyserversupdates.netlify.com # (required)
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://updates.changelog.site/"  # (required)
+url: "https://spicyserversupdates.netlify.com"  # (required)
 
 baseurl: '' # optional
 
