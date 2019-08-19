@@ -3,7 +3,7 @@
   color: blue
 
 - name: Bug
-  color: orange
+  color: red
 
 - name: Update
   color: green
